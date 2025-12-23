@@ -94,14 +94,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvthummar&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvthummar&theme=dark" />
-</p>
-
----
-
 👀 Open to backend, platform, and security-focused software engineering roles.
