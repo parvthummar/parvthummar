@@ -12,7 +12,7 @@
 - 🛡️ Strong interest in authentication, encryption, and API security  
 - 🧠 Solid foundation in Data Structures, Algorithms, and Operating Systems  
 - 🤝 Experience collaborating with frontend teams using well-defined API contracts  
-- ⚡ Fun fact: I enjoy debugging backend issues more than writing new features  
+- ⚡ Fun fact: I enjoy debugging backend issues more than writing new feature
 
 ---
 
